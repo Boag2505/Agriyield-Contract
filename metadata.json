@@ -1,0 +1,6 @@
+{
+  "name": "AgriYield",
+  "description": "Nền tảng mã hóa tài sản nông nghiệp RWA (Real World Assets) bảo chứng hợp đồng thông minh Stellar Soroban",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
