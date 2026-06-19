@@ -103,7 +103,7 @@ Get AgriYield up and running locally in your development environment inside 3 mi
 ### Step 1: Clone and Install Dependencies
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/agriyield.git
+git clone https://github.com/Boag2505/agriyield.git
 cd agriyield
 
 # Install node dependencies
